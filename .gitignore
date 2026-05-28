@@ -2,7 +2,7 @@
 intermediate/
 
 # Upstream reference clone (kept untracked; cherry-pick as needed)
-horizon-base/
+
 
 # Python
 __pycache__/
